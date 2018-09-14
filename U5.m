@@ -21,3 +21,4 @@ nmutkid = NIND - ecount -ncrosskid;
 f = Fitness(chrom,D);
 exp = fitscalingrank(f,NIND);
 selectionstochunif(exp,NIND);
+nicaiwozaidasm
